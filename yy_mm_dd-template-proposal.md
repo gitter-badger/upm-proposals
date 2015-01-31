@@ -1,7 +1,5 @@
 # Title
 
-To create a proposal, copy this template proposal to your fork, replace the texts in the sections, remove this section, save it as proposals/0000-&lt;proposal name&gt;.md, and make a pull request. **The pull request (and forking) is important, so that the proposal can be discussed and optionally rejected!**
-
 ## Motivation  
 Explain here, why you are making this proposal.  
 Which problem does it solve?  
